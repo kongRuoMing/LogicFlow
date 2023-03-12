@@ -50,6 +50,7 @@ lf.extension.control.removeItem('reset');
 lf.extension.control.removeItem('undo');
 // 删除下一步
 lf.extension.control.removeItem('redo');
+lf.extension.control.removeItem('save');
 ```
 
 ### 示例
